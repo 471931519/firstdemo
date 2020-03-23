@@ -1,15 +1,19 @@
 # firstdemo
 first demo
-<<<<<<< HEAD
-<<<<<<< HEAD
+？？？
+
+wahr
+
+
+
 haahascq
 =======
 haahascq
 
 ？？
 >>>>>>> test
-=======
-haahascq
+>>>>>>> =======
+>>>>>>> haahascq
 
 ？？
 >>>>>>> test
